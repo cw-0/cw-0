@@ -1,4 +1,9 @@
 
+<div align="center">
+  <img height="" src="https://media.giphy.com/media/WgN70jwpdeqaaRCF5C/giphy.gif" height="1280px" width="720px"/>
+</div>
+
+***
 
 ### <h2 align="left">🤠 Caden Warren</h2>
 
@@ -13,7 +18,6 @@ Computer Science student at Florida International University. Self taught in Pyt
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo"/>
 </a>
   
-***
 <h2 align="left style="border-bottom:none;">🧰 Techs I Use</h2>
 <div align="left" style="margin-top:40px;border-top:none;">
   <img src="https://img.icons8.com/?size=40&id=40669&format=png&color=000000" alt="C++ logo"/>
@@ -37,15 +41,11 @@ Computer Science student at Florida International University. Self taught in Pyt
 <h2 align="left">📊 Stats</h2>
 <div align="left">
   
-  [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
 </div>
 
 ***
-
-<div align="center">
-  <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHoya2Q1Mm43NTYwbzVtMnVuMmVnODcwN3IycDl6azRrYXU0M210dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WHBYfVENPGvjTKbtVE/giphy.gif" height="150" width="150"/>
-</div>
 
 [//]: # (My Top Themes: chartreuse_dark, highcontrast, midnight_purple, vision_friendly_dark)
