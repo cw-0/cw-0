@@ -48,3 +48,4 @@ Computer Science student at Florida International University. Self taught in Pyt
   <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHoya2Q1Mm43NTYwbzVtMnVuMmVnODcwN3IycDl6azRrYXU0M210dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WHBYfVENPGvjTKbtVE/giphy.gif" height="150" width="150"/>
 </div>
 
+[//]: # (My Top Themes: chartreuse_dark, highcontrast, midnight_purple, vision_friendly_dark)
