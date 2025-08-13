@@ -23,15 +23,13 @@ Computer Science student at Florida International University. Self-taught in Pyt
   <img src="https://img.icons8.com/?size=60&id=40669&format=png&color=000000" alt="C++ logo"/>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" height="60" width="60" alt="Python logo"/>
   <img src="https://devicon-website.vercel.app/api/opencv/original-wordmark.svg" height="60" width="62" alt="OpenCV logo"/>
-  <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg" height="60" width="62" alt="Flask logo"/>
-  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" height="60" width="62" alt="SQLite logo"/>
+  <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" height="60" width="62" alt="Flask logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="60" width="62" alt="SQL logo"/>
   <img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="60" width="62" alt="NumPy logo"/>
   <img src="https://devicon-website.vercel.app/api/pandas/original.svg" height="60" width="62" alt="Pandas logo"/>
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="60" width="62" alt="HTML logo"/>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="60" width="62" alt="CSS logo"/>
-  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="60" width="62" alt="Docker logo"/>
   <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="60" width="62" alt="Linux logo"/>
-  <img src="https://devicon-website.vercel.app/api/fedora/original.svg" height="60" width="62" alt="Fedora logo"/>
   <img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="60" width="62" alt="RPI logo"/>
   <img src="https://devicon-website.vercel.app/api/vim/original.svg" height="60" width="62" alt="Vim logo"/>
 </div>
@@ -50,8 +48,10 @@ Computer Science student at Florida International University. Self-taught in Pyt
 
 [//]: # (My Top Themes: chartreuse_dark, highcontrast, midnight_purple, vision_friendly_dark)
 <!--
-Removed Dev Icons
+Removed Dev Icons:
   <img src="https://devicon-website.vercel.app/api/sqlalchemy/original.svg" height="60" width="62" alt="SQLalchemy logo"/>
-
+  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" height="60" width="62" alt="SQLite logo"/>
+  <img src="https://devicon-website.vercel.app/api/fedora/original.svg" height="60" width="62" alt="Fedora logo"/>
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="60" width="62" alt="Docker logo"/>
 -->
 
