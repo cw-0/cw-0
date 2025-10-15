@@ -7,7 +7,7 @@ Computer Science student at Florida International University. Self-taught in Pyt
   <p align="left">
     <a href="https://www.linkedin.com/in/cadenbwarren/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="81" width="81" alt="LinkedIn logo"/></a>
-    <a href="https://discord.gg/GX8ak99Fgb" target="_blank" rel="noopener noreferrer">
+    <a href="https://discord.gg/3JFHNZ7Vf6" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="discord logo"/></a>
     <a href="https://www.instagram.com/caden_warren42/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo"/></a>
