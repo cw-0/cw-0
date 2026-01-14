@@ -2,7 +2,7 @@
 
 **`Computer Science Student (C++ and Python)`**  
   
-Computer Science student at Florida International University. Self-taught in Python and C++ with a passion for bot automation, machine learning, game development, full stack development, systems programming and embedded systems.  
+Computer Science student at Florida International University. Self-taught in Python and C++.  
 
   <p align="left">
     <a href="https://www.linkedin.com/in/cadenbwarren/" target="_blank" rel="noopener noreferrer">
