@@ -5,7 +5,7 @@
 Computer Science student at Florida International University. Self-taught in Python and C++.  
 
   <p align="left">
-    <a href="https://www.linkedin.com/in/cadenbwarren/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/caden-warren-1ab320290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="81" width="81" alt="LinkedIn logo"/></a>
     <a href="https://discord.gg/3JFHNZ7Vf6" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="discord logo"/></a>
