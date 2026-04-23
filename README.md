@@ -1,61 +1,70 @@
 # 🤠 Caden Warren
 
-**`Computer Science Student (C++ and Python)`**  
-  
-Computer Science student at Florida International University. Self-taught in Python and C++.  
+**Computer Science Student | C++ & Python Developer**
 
-  <p align="left">
-    <a href="https://www.linkedin.com/in/caden-warren-1ab320290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30" width="70" alt="LinkedIn logo"/></a>
-    <a href="https://discord.gg/3JFHNZ7Vf6" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="discord logo"/></a>
-    <a href="https://www.instagram.com/caden.305/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo"/></a>
-    <a href="https://x.com/918Cain" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="28" alt="twitter logo"/></a>
-  </p>
-    
-  <div align="left">
-    <img height="" src="https://media.giphy.com/media/WgN70jwpdeqaaRCF5C/giphy.gif" height="1280px" width="720px"/>
-  </div>
+Computer Science student at Florida International University focused on C++ and Python.  
+Interested in software development, problem-solving, and building practical projects.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/caden-warren-1ab320290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.gg/3JFHNZ7Vf6" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/caden.305/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/918Cain" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/WgN70jwpdeqaaRCF5C/giphy.gif" width="720" alt="Coding animation"/>
+</p>
 
 ---
-  
-### 🧰 Languages and Tools
 
-<div align="left">
-  <img src="https://img.icons8.com/?size=60&id=40669&format=png&color=000000" alt="C++ logo"/>
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="60" width="60" alt="Python logo"/>
-  <img src="https://devicon-website.vercel.app/api/opencv/original-wordmark.svg" height="60" width="62" alt="OpenCV logo"/>
-  <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" height="60" width="62" alt="Flask logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="60" width="62" alt="SQL logo"/>
-  <img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="60" width="62" alt="NumPy logo"/>
-  <img src="https://devicon-website.vercel.app/api/pandas/original.svg" height="60" width="62" alt="Pandas logo"/>
-  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="60" width="62" alt="HTML logo"/>
-  <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="60" width="62" alt="CSS logo"/>
-  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="60" width="62" alt="Linux logo"/>
-  <img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="60" width="62" alt="RPI logo"/>
-  <img src="https://devicon-website.vercel.app/api/vim/original.svg" height="60" width="62" alt="Vim logo"/>
-</div>
+## 🧰 Languages and Tools
 
-#
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="60" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="Raspberry Pi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="Vim" />
+</p>
 
-### 📊 Stats
-<div align="left">
-  
-  [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
-</div>
+---
 
-***
+## 📊 Stats
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+
+---
 
 [//]: # (My Top Themes: chartreuse_dark, highcontrast, midnight_purple, vision_friendly_dark)
+
 <!--
 Removed Dev Icons:
-  <img src="https://devicon-website.vercel.app/api/sqlalchemy/original.svg" height="60" width="62" alt="SQLalchemy logo"/>
-  <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" height="60" width="62" alt="SQLite logo"/>
-  <img src="https://devicon-website.vercel.app/api/fedora/original.svg" height="60" width="62" alt="Fedora logo"/>
-  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="60" width="62" alt="Docker logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="50" alt="SQLAlchemy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" alt="Fedora" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
 -->
-
