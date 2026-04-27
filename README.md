@@ -17,6 +17,17 @@ Computer Science student at Florida International University focused on **C++**,
 </p>
 -->
 
+## 🎯 Current Focus
+
+- **C++ systems programming**
+- Linux command line, processes, filesystems, and system tools
+- Data structures, algorithms, and graph theory
+- Operating systems and computer architecture fundamentals
+- Networking and socket programming
+- Cybersecurity, digital forensics, and secure software concepts
+- Simulation, graphics, and performance-oriented programming
+
+
 ## 🧰 Main Languages and Tools
 
 <p align="left">
@@ -47,16 +58,7 @@ Computer Science student at Florida International University focused on **C++**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
 </p>
 
-
-## 🎯 Current Focus
-
-- **C++ systems programming**
-- Linux command line, processes, filesystems, and system tools
-- Data structures, algorithms, and graph theory
-- Operating systems and computer architecture fundamentals
-- Networking and socket programming
-- Cybersecurity, digital forensics, and secure software concepts
-- Simulation, graphics, and performance-oriented programming
+<br>
 
 ## ⚡ Planned Electives
 
@@ -67,7 +69,8 @@ Computer Science student at Florida International University focused on **C++**,
 - Digital Forensics
 - Modeling & Simulations
 - Computer Graphics
-  
+
+<br>
 
 ## 📊 Stats
 
