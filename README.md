@@ -58,7 +58,6 @@ Computer Science student at Florida International University focused on **C++**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
 </p>
 
-<br>
 
 ## ⚡ Planned Electives
 
@@ -70,7 +69,6 @@ Computer Science student at Florida International University focused on **C++**,
 - Modeling & Simulations
 - Computer Graphics
 
-<br>
 
 ## 📊 Stats
 
@@ -83,5 +81,4 @@ Computer Science student at Florida International University focused on **C++**,
   <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 
----
 [//]: # (My Top Themes: chartreuse_dark, highcontrast, midnight_purple, vision_friendly_dark)
