@@ -31,7 +31,6 @@ Computer Science student at Florida International University focused on **C++**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="Neovim" title="Neovim"/>
 </p>
 
----
 
 ## 📚 Also Familiar With
 
@@ -48,7 +47,6 @@ Computer Science student at Florida International University focused on **C++**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
 </p>
 
----
 
 ## 🎯 Current Focus
 
@@ -60,8 +58,6 @@ Computer Science student at Florida International University focused on **C++**,
 - Cybersecurity, digital forensics, and secure software concepts
 - Simulation, graphics, and performance-oriented programming
 
----
-
 ## ⚡ Planned Electives
 
 - Algorithm Techniques
@@ -72,7 +68,6 @@ Computer Science student at Florida International University focused on **C++**,
 - Modeling & Simulations
 - Computer Graphics
   
----
 
 ## 📊 Stats
 
