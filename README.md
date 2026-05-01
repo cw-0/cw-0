@@ -72,13 +72,10 @@ Computer Science student at Florida International University focused on **C++**,
 
 ## 📊 Stats
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/0-profile-details.svg" alt="Profile details" />
-</p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg" alt="Most commit language" />
-</p>
+[![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cw-0/cw-0/main/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 [//]: # (My Top Themes: chartreuse_dark, highcontrast, midnight_purple, vision_friendly_dark)
