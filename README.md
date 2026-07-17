@@ -1,6 +1,6 @@
 # 🤠 Caden Warren
 
-**Computer Science Student | C++ Systems Software | Linux | Cybersecurity**
+**Computer Science Student | C++ Systems Software | Linux | Embedded Systems Engineering**
 
 Computer Science student at Florida International University focused on **C++**, **Linux systems programming**, and **cybersecurity-oriented software**.
 
