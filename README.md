@@ -2,7 +2,7 @@
 
 **Computer Science Student | C++ Systems Software | Linux | Embedded Systems Engineering**
 
-Computer Science student at Florida International University focused on **C++**, **Linux systems programming**, and **cybersecurity-oriented software**.
+Computer Science student at the University of Arkansas - Fort Smith, focused on **C++**, **Linux systems programming**, and **cybersecurity-oriented software**.
 
 
 <p align="left">
