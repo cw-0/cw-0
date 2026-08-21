@@ -1,8 +1,6 @@
 # 🤠 Caden Warren
 
-**Computer Science Student | C++ Systems Software | Linux | Embedded Systems Engineering**
-
-Computer Science student at the University of Arkansas - Fort Smith, focused on **C++**, **Linux systems programming**, and **cybersecurity-oriented software**.
+**CS Student @ UAFS | C++ | Linux | Specializing in Embedded Systems Engineering**
 
 
 <p align="left">
@@ -17,6 +15,7 @@ Computer Science student at the University of Arkansas - Fort Smith, focused on 
 </p>
 -->
 
+<!--
 ## 🎯 Current Focus
 
 - **C++ systems programming**
@@ -26,7 +25,7 @@ Computer Science student at the University of Arkansas - Fort Smith, focused on 
 - Networking and socket programming
 - Cybersecurity, digital forensics, and secure software concepts
 - Simulation, graphics, and performance-oriented programming
-
+!-->
 
 ## 🧰 Main Languages and Tools
 
@@ -59,7 +58,7 @@ Computer Science student at the University of Arkansas - Fort Smith, focused on 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
 </p>
 
-
+<!--
 ## ⚡ Planned Electives
 
 - Algorithm Techniques
@@ -69,7 +68,7 @@ Computer Science student at the University of Arkansas - Fort Smith, focused on 
 - Digital Forensics
 - Modeling & Simulations
 - Computer Graphics
-
+!-->
 
 ## 📊 Stats
 
